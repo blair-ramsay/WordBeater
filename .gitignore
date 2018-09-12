@@ -1,0 +1,4 @@
+/node_modules
+.ftpconfig
+package-lock.json
+TODO.txt
